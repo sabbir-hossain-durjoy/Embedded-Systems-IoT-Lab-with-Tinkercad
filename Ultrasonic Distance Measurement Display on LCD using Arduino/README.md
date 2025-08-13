@@ -1,5 +1,8 @@
 # 📏 Arduino Ultrasonic Sensor with I2C LCD Display
 
+## 🔗 Tinkercad Project
+[View My Circuit on Tinkercad](https://www.tinkercad.com/things/1FVgh5a711Q-/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=U4pY-uCtY7XmghLDmCYC0Z35viNbyaA4LWDV8dUxVcE)
+
 ---
 
 ## 🛠 Equipment List
@@ -57,4 +60,3 @@ void loop() {
 
     delay(500);
 }
-
